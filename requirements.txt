@@ -1,0 +1,7 @@
+Django==1.9.9
+coverage==3.7.1
+# version 1.4 for compatiblity with Django 1.9.9
+django-debug-toolbar==1.4
+selenium==2.53.1
+# version <0.2 for compatibility issue
+sqlparse==0.1.19
